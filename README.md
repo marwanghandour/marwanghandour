@@ -24,7 +24,7 @@ Here are some of my favorite projects:
 
 ## 📫 Get in Touch
 - **Email**: [marwanghandour@zohomail.com](mailto:marwanghandour@zohomail.com)
-- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/marwan-ghandour-aa2828331/))
+- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/marwan-ghandour-aa2828331])
 
 
 ## 📚 Currently Learning
