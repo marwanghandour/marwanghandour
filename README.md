@@ -1,16 +1,43 @@
-## Hi there 👋
+# 🌟 Hi there, I'm Marwan!
 
-<!--
-**marwanghandour/marwanghandour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-00BFFF?style=flat&logo=dart&logoColor=white)
 
-Here are some ideas to get you started:
+## 🌍 About Me
+I'm a passionate **Flutter Developer** from **Egypt**, dedicated to crafting high-quality mobile applications that delight users. My journey in tech is fueled by a love for coding and a commitment to continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+- **Languages**: Dart
+- **Frameworks**: Flutter, Firebase
+- **Tools**: Git, Android Studio, VS Code
+
+---
+
+## 🌟 Featured Projects
+Here are some of my favorite projects:
+- **[Bookly](https://github.com/marwanghandour/bookly)**
+- **[Notes App](https://github.com/marwanghandour/notes_app)** 
+
+---
+
+## 📫 Get in Touch
+- **Email**: [marwanghandour@zohomail.com](mailto:marwanghandour@zohomail.com)
+- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/marwan-ghandour-aa2828331/))
+
+
+## 📚 Currently Learning
+I'm currently expanding my skills in:
+- State Management (Bloc)
+- Advanced Testing in Flutter
+
+---
+
+## 🎉 Fun Facts
+- I love participating in hackathons and coding challenges!
+- I'm passionate about sharing knowledge and mentoring aspiring developers.
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration or just to say hi!
