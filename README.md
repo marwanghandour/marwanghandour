@@ -17,9 +17,9 @@ I'm a passionate **Flutter Developer** from **Egypt**, dedicated to crafting hig
 
 ## 🌟 Featured Projects
 Here are some of my favorite projects:
--
--
-**[Ecommerce app](https://github.com/marwanghandour/ecommerce_app/tree/main)**
+
+
+- **[Ecommerce app](https://github.com/marwanghandour/ecommerce_app/tree/main)**
  - **[Bookly](https://github.com/marwanghandour/bookly)**
 
 - **[Notes App](https://github.com/marwanghandour/notes_app)** 
