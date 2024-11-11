@@ -21,6 +21,10 @@ Here are some of my favorite projects:
 - **[Bookly](https://github.com/marwanghandour/bookly)**: A sleek and modern book management app.
 - **[Notes App](https://github.com/marwanghandour/notes_app)**: A simple and intuitive notes application.
 
+- **[Car App](https://github.com/marwanghandour/car-app)**: A modern cars app
+
+
+
 ---
 
 ## 📫 Get in Touch
