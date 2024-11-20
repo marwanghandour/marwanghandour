@@ -18,7 +18,7 @@ I'm a passionate **Flutter Developer** from **Egypt** 🌍, dedicated to craftin
 ## 🌟 Featured Projects
 Here are some of my favorite projects:
 - **[Ecommerce App](https://github.com/marwanghandour/ecommerce_app/tree/main)**: A feature-rich e-commerce platform.
-- **[Bookly](https://github.com/marwanghandour/bookly)**: A sleek and modern book management app.
+- **[Easy Book](https://github.com/marwanghandour/easybook)**: A sleek and modern book management app.
 - **[Notes App](https://github.com/marwanghandour/notes_app)**: A simple and intuitive notes application.
 
 - **[Car App](https://github.com/marwanghandour/car-app)**: A modern cars app
