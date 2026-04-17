@@ -1,51 +1,37 @@
-# 🌟 Hi there, I'm Marwan!
+# Hi, I'm Marwan ⚡
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-00BFFF?style=flat&logo=dart&logoColor=white)
-
-## 🌍 About Me
-I'm a passionate **Flutter Developer** from **Egypt** 🌍, dedicated to crafting high-quality mobile applications that delight users. My journey in tech is fueled by a love for coding and a commitment to continuous learning.
+I’m a Communication & Electronics Engineering student at Mansoura University. I focus on building mobile apps with Flutter and writing Python scripts to automate boring stuff, like web scraping and data extraction.
 
 ---
 
-## 💻 Tech Stack
-- **Languages**: ![Dart](https://img.shields.io/badge/Dart-00BFFF?style=flat&logo=dart&logoColor=white)
-- **Frameworks**: ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white), ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-- **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white), ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white), ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+### 💻 What I’m working with:
+* **Mobile:** Flutter & Dart (Bloc, Firebase)
+* **Automation:** Python (BeautifulSoup, Playwright, Selenium, CSV)
+* **Tools:** Linux (Pop!_OS), VS Code, Git
 
 ---
 
-## 🌟 Featured Projects
-Here are some of my favorite projects:
-- **[Ecommerce App](https://github.com/marwanghandour/ecommerce_app/tree/main)**: A feature-rich e-commerce platform.
-- **[Easy Book](https://github.com/marwanghandour/easybook)**: A sleek and modern book management app.
-- **[Notes App](https://github.com/marwanghandour/notes_app)**: A simple and intuitive notes application.
+### 🚀 Projects
 
-- **[Car App](https://github.com/marwanghandour/car-app)**: A modern cars app
+#### 📱 Mobile Apps
+* **[Ecommerce App](https://github.com/marwanghandour/ecommerce_app)** – A full-featured store built with Flutter.
+* **[Instagram Clone](https://github.com/marwanghandour/instagram-clone)** – Rebuilding complex social UI.
+* **[Easy Book](https://github.com/marwanghandour/easybook)** – A clean, modern book management app.
 
-
-
----
-
-## 📫 Get in Touch
-- **Email**: [marwanghandour@zohomail.com](mailto:marwanghandour@zohomail.com)
-- **LinkedIn**: [Marwan Ghandour](https://www.linkedin.com/in/marwan-ghandour-aa2828331/)
+#### 🐍 Python & Scraping
+* **Directory Scrapers** – Handling pagination and error-proofing to get clean data from membership sites.
+* **Automation Scripts** – Using Python to handle repetitive data tasks.
 
 ---
 
-## 📚 Currently Learning
-I'm currently expanding my skills in:
-- **State Management (Bloc)** 📦
-- **Advanced Testing in Flutter** 🧪
+### 📚 Currently Learning
+Right now, I'm diving deeper into **Web Scraping architecture** (bypassing anti-bot systems) and improving my **State Management** skills in Flutter.
 
 ---
 
-## 🎉 Fun Facts
-- I love participating in hackathons and coding challenges! 🏆
-- I'm passionate about sharing knowledge and mentoring aspiring developers. 💡
+### 📫 Reach Me
+* **LinkedIn:** [Marwan Ghandour](https://www.linkedin.com/in/marwan-ghandour-aa2828331/)
+* **Email:** [marwanghandour@zohomail.com](mailto:marwanghandour@zohomail.com)
 
 ---
-
-Thanks for visiting my profile! Feel free to explore my repositories and reach out for collaboration or just to say hi! 😊
-
----
+*I believe in building reliable code that works the first time. Minimalist setup, dark mode everything.* 🦇
