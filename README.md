@@ -1,38 +1,41 @@
 # Marwan Ghandour
 
-Python web scraping. Data to CSV and Excel.
+Python web scraping
 
-## What I do
+## What I do right now
 
-- Scrape product data from e-commerce sites
-- Extract text, prices, images, availability
-- Handle pagination and multi-page sites
-- Clean data and export to spreadsheets
-- Small to medium freelance projects
+- Scrape e-commerce sites, blogs, directories
+- Extract product data, prices, availability
+- Clean data and export to CSV/Excel
+
+## Where I'm going
+
+**Next fields I'm exploring:**
+- Backend development (APIs, databases)
+- Automation scripts
 
 ## Tools
 
-Python, BeautifulSoup, Requests, Pandas, VS Code
+Python, BeautifulSoup, Requests, Pandas, VS Code, Playwrite
 
 ## Projects
 
 **ystudios-web-scraper**
-Clothing collection scraper. Names, colors, prices, stock status. Exports to Excel with price stats.
+Clothing collection. Names, colors, prices, stock. Excel report with stats.
 
 **books-scraper**
-1000 books from books.toscrape.com. Titles, prices, ratings, availability.
+1000 books. Titles, prices, ratings, availability.
 
 **quotes-scraper**
-Multi-page quote scraper. Authors and quotes. Clean CSV output.
+Multi-page quotes. Authors. Clean CSV.
 
 ## Currently
 
-- Learning pandas for better data analysis
+- Deepening pandas for data analysis
 - Building reusable scraping templates
 - Available for freelance work
+- Planning my backend learning path
 
 ## Find me
 
 GitHub: marwanghandour
-Fiverr: [link when ready]
-Upwork: [link when ready]
